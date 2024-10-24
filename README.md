@@ -14,3 +14,11 @@ Hello and welcome to my github profile! I am a PhD student at the University of 
   ACS Applied Materials & Interfaces 2022 14 (29), 33457-33462
 
   DOI: 10.1021/acsami.2c11732
+
+  ### Enhancing the Self-Propelled Motion of Hydrogen Peroxide Fueled Active Particles with Formic Acid and Other Oxygen Scavengers
+
+  Ezra A. Baghdady,  J. Will Medlin, and Daniel K. Schwartz
+
+  Langmuir 2024 40 (40), 21097-21105
+  
+  DOI: 10.1021/acs.langmuir.4c02482
